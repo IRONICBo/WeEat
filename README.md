@@ -44,6 +44,9 @@ Get started and install the WeEat via subpath:
 - Backend: [weeat-backend](./weeat-backend/README.md)
 - Frontend: [weeat-app](./weeat-app/README.md)
 
+1. weeat-debug.apk https://drive.google.com/file/d/1JkEE0XUr8laEaBhO_1kK4gBy-xKxOAt2/view?usp=drive_link
+2. weeat-pre.pptx https://docs.google.com/presentation/d/1mwxoSkhOdRh0JVrBGcEaJqHIWSsTXmKg/edit?usp=drive_link&ouid=106384117598596394728&rtpof=true&sd=true
+
 # Technologies Used
 
 - **TiDB Serveless**: A cloud-native database that combines the best of SQL, with vector search capabilities.
